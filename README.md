@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Qudsia125/Qudsia125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Qudsia Sarfraz 👋
 
-Here are some ideas to get you started:
+### Computer Science Graduate | Aspiring Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm interested in web development, software engineering, and building practical digital solutions.
+
+### 💻 Technical Interests
+- PHP and Laravel
+- HTML, CSS and JavaScript
+- WordPress
+- MySQL
+- Python and AI
+
+### 🚀 Projects
+- SafeNest – AI-powered smart home security platform
+- Decor Voyage – Home and decor blogging website
+
+### 🌱 Currently Learning
+- Full-stack web development
+- Building practical projects
+- Improving my programming skills
+
+### 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/qudsia-sarfraz-80ba2a248/
+- Blog: https://decorvoyage.blogspot.com
